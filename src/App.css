@@ -7,50 +7,49 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  /*.App-logo {*/
-  /*  animation: App-logo-spin infinite 20s linear;*/
-  /*}*/
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-
-nav ul {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  background-color: cadetblue;
 }
 
-nav ul li {
-  display: inline;
+li {
   float: left;
-  background-color: cadetblue ;
 }
 
-nav ul li a {
+li a {
   display: block;
-  padding: 8px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
 
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.svgWrapper{
+  position:absolute;
+  top:21px;
+  left:15px;
+}
+
+#searchBox {
+    width: auto;
+    height: 50px;
+    font-size: 14px;
+    background-image: url(https://cdn2.hubspot.net/hubfs/4004166/bioticresearch_website_assets/images/search_icon.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #fff;
+    border: 1px solid #000;
+    box-shadow: none;
+    -webkit-appearance: none;
 }

@@ -8,11 +8,11 @@ function Navbar() {
   return (
     <div>
         <nav>
-        <ul>
-            <li><img src={logo} className="App-logo" alt="logo" /></li>
-            <li><a>Home</a></li>
-            <li><a>About</a></li>
-        </ul>
+            <ul>
+                <li><img src={logo} className="App-logo" alt="logo" /></li>
+                <li><a>Home</a></li>
+                <li><a>About</a></li>
+            </ul>
         </nav>
     </div>
   );
