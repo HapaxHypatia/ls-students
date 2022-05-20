@@ -3,14 +3,14 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 50px;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  /*.App-logo {*/
+  /*  animation: App-logo-spin infinite 20s linear;*/
+  /*}*/
 }
 
 .App-header {
@@ -35,4 +35,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  float: left;
+  background-color: cadetblue ;
+}
+
+nav ul li a {
+  display: block;
+  padding: 8px;
+
 }
