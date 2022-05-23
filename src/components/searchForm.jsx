@@ -1,5 +1,4 @@
 import React from "react";
-import searchIcon from '../search.svg';
 
 
 function SearchForm() {

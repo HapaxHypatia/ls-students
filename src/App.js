@@ -1,22 +1,33 @@
-
+import React from "react";
 import './App.css';
+import {Outlet, Routes} from "react-router";
+import {Route} from "react-router";
+import {Link} from "react-router-dom";
 
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 
 import About from "./components/about";
-import Navbar from "./components/navbar";
-import SearchForm from "./components/searchForm";
-import Body from "./components/body";
+import Search from "./components/search";
+import logo from "./logo.png";
+
+import NoMatch from "./components/noMatch";
 
 function App() {
   return (
     <div className="App">
-      <Navbar></Navbar>
-      <Body>
+      <nav>
+          <ul>
+              <li><img src={logo} className="App-logo" alt="logo" /></li>
+              <li><Link to="/search">Search</Link></li>
+              <li><Link to="/about">About</Link></li>
+          </ul>
+      </nav>
 
-      </Body>
-        <SearchForm></SearchForm>
-
+      <Routes>
+        <Route index element={<Search />} />
+        <Route path="search" element={<Search />} />
+        <Route path="about" element={<About />} />
+        <Route path="*" element={<NoMatch />} />
+      </Routes>
     </div>
   );
 }
