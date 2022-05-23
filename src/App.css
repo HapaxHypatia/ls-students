@@ -53,3 +53,9 @@ li a:hover {
     box-shadow: none;
     -webkit-appearance: none;
 }
+
+.sense {
+    padding: 10px;
+    text-align: justify;
+    width: 900px;
+}
