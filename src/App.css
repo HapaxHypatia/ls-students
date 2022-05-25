@@ -53,6 +53,9 @@ li a:hover {
     box-shadow: none;
     -webkit-appearance: none;
 }
+form {
+    padding: 40px;
+}
 
 .sense {
     padding: 10px;

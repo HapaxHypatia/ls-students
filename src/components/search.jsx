@@ -1,13 +1,23 @@
-import React from "react";
-import SearchForm from "./searchForm";
+import React, {useState} from "react";
 import Entry from "./entry";
 
-function Search() {
+const Search = () => {
+	const [searchTerm, setSearchTerm] = useState('')
+	const handleSubmit = (e) => {
+		console.log('handleSubmit ran');
+		console.log(e.target.value)
+		e.preventDefault(); // 👈️ prevent page refresh
+	}
+
 	return (
 		<div>
-			<p>Search</p>
-			<SearchForm></SearchForm>
-			<Entry></Entry>
+			<div className="search">
+			<form onSubmit={handleSubmit}>
+				<input id='searchBox' onChange={event => setSearchTerm(event.target.value)} placeholder="Search the dictionary" />
+				<button>Search</button>
+			</form>
+			</div>
+			<Entry key = {searchTerm}/>
 		</div>
 	);
 }
