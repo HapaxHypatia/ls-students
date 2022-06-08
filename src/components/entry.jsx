@@ -1,5 +1,4 @@
 import React from "react";
-import data from "../data/ls_A.json";
 
 
 //TODO how to pass search Term from searchform to entry
@@ -9,16 +8,9 @@ function Entry(props) {
 	// const files = {
 	// 	'a' = "ls_A.json"
 	// }
+	const selectedEntry = props.term;
 
-	const selectedEntry = data.find(entry => entry.key === props.searchTerm);
-	console.log(selectedEntry)
-	if (!selectedEntry){
-		return (
-			<p>no entry found</p>
-		);
-	}
-	else{
-		return (
+	return (
 		<div>
 			{/*Sample data*/}
 			<div >{selectedEntry.key}</div>
@@ -32,7 +24,5 @@ function Entry(props) {
 			<div className={"sense"}>{selectedEntry.senses[3]}</div>
 		</div>
 	);
-	}
-
 }
 export default Entry;
