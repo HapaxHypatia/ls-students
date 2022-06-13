@@ -1,6 +1,6 @@
 import React from "react";
 import './App.css';
-import {Outlet, Routes} from "react-router";
+import {Routes} from "react-router";
 import {Route} from "react-router";
 import {Link} from "react-router-dom";
 

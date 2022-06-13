@@ -1,7 +1,5 @@
 import React from "react";
 
-
-//TODO how to pass search Term from searchform to entry
 //TODO how to import all jsons and map to letters of the alphabet(string) for quicker searching
 
 function Entry(props) {
@@ -9,8 +7,13 @@ function Entry(props) {
 	// 	'a' = "ls_A.json"
 	// }
 	const selectedEntry = props.term;
-
-	return (
+	//TODO This condition does not work- returns blank
+	if(selectedEntry===""){
+		return (
+			<p>"No entry found"</p>
+		);
+	}else{
+		return (
 		<div>
 			{/*Sample data*/}
 			<div >{selectedEntry.key}</div>
@@ -24,5 +27,8 @@ function Entry(props) {
 			<div className={"sense"}>{selectedEntry.senses[3]}</div>
 		</div>
 	);
+	}
+
+
 }
 export default Entry;
