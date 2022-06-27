@@ -1,6 +1,6 @@
 import React from "react";
 import {useState} from "react";
-import data from "../data/ls_B.json";
+import data from "../data/ls_A.json";
 import Entry from "./entry";
 
 const Search = () => {
@@ -14,9 +14,10 @@ const Search = () => {
 
 	const handleSubmit = (e) => {
 		e.preventDefault()
+		//TODO move the search function to a separate component, e.g. to Entry?
 		const selectedEntry = data.find(entry => entry.key === searchTerm);
 		if (selectedEntry==undefined){
-			setEntry("");
+			setEntry("invalid");
 		}else{
 			setEntry(selectedEntry)
 		}
@@ -29,7 +30,7 @@ const Search = () => {
 					<input id='searchBox' value={searchTerm ?? ""} onChange={updateState} placeholder="Search the dictionary" />
 					<button>Search</button>
 				</form>
-				{entry? <Entry term={entry}/> : <p id={"empty"}>No Entry</p>}
+				{entry? <Entry term={entry}/> : <p id={"empty"}></p>}
 			</div>
 
 		);

@@ -62,3 +62,11 @@ form {
     text-align: justify;
     width: 900px;
 }
+
+.subsection {
+    padding: 10px;
+    text-align: justify;
+    width: 900px;
+    border: 1px solid red;
+}
+

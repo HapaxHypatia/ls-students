@@ -1,16 +1,18 @@
 import React from "react";
+import Subsection from "./subsection";
 
 //TODO how to import all jsons and map to letters of the alphabet(string) for quicker searching
 
 function Entry(props) {
-	// const files = {
-	// 	'a' = "ls_A.json"
-	// }
+	//map "abcdefghijklmnopqrstuvwxyz" to ./data/*
 	const selectedEntry = props.term;
-	//TODO This condition does not work- returns blank
-	if(selectedEntry===""){
+	//TODO display ~5 headwords above and below this entry
+
+	const senses = selectedEntry.senses;
+
+	if(selectedEntry==="invalid"){
 		return (
-			<p>"No entry found"</p>
+			<p>No entry found</p>
 		);
 	}else{
 		return (
@@ -21,10 +23,8 @@ function Entry(props) {
 			<div>{selectedEntry.part_of_speech}</div>
 			<div>{selectedEntry.declension}</div>
 			<div>{selectedEntry.gender}</div>
-			<div className={"sense"}>{selectedEntry.senses[0]}</div>
-			<div className={"sense"}>{selectedEntry.senses[1]}</div>
-			<div className={"sense"}>{selectedEntry.senses[2]}</div>
-			<div className={"sense"}>{selectedEntry.senses[3]}</div>
+			{senses.map((sense, index) => <Subsection key={index} sense={sense}/>)}
+
 		</div>
 	);
 	}
