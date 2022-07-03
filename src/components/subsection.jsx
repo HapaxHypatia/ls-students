@@ -1,29 +1,9 @@
 import React from "react";
+import abbreviations from "../abbreviations.json";
 
 function Subsection(props){
 	const item = props.sense;
-	const abbreviations = {};
-	abbreviations["abl."]="ablative";
-	abbreviations["acc."]="accusative";
-	abbreviations["gen."]="genitive";
-	abbreviations["dat."]="dative";
-	abbreviations["nom."]="nominative";
-	abbreviations["inf."]="infinitive";
-	abbreviations["voc."]="vocative";
-	abbreviations["esp."]="especially";
-	abbreviations["constr."]="constructed";
-	abbreviations["adv."]="adverb";
-	abbreviations["absol."]="absolute";
-	abbreviations["Plaut."]="Plautus";
-	abbreviations["Cic."]="Cicero";
 
-	function ReplaceText(text){
-		console.log(abbreviations)
-		for (let key in abbreviations){
-			text = text.replaceAll(key, abbreviations[key]);
-		}
-		return text;
-	}
 
 	if (Array.isArray(item))
 	{
@@ -33,10 +13,13 @@ function Subsection(props){
 		);
 	}
 	else {
-		let newItem = ReplaceText(item)
+		let split = item.split(/[;|()<>{}—\[\]\r\n/\\]+/);
 		return (
-		<div>{newItem}</div>
-	);
+			<div className={"subsection"}>
+				{split.map((sentence) => <div>{sentence}</div>)}
+			</div>
+
+			);
 	}
 
 }

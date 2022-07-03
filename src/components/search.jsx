@@ -2,6 +2,8 @@ import React from "react";
 import {useState} from "react";
 import data from "../data/ls_A.json";
 import Entry from "./entry";
+//TODO how to import all jsons and map to letters of the alphabet(string) for quicker searching
+
 
 const Search = () => {
 	const [searchTerm, setSearchTerm] = useState("")
@@ -14,14 +16,14 @@ const Search = () => {
 
 	const handleSubmit = (e) => {
 		e.preventDefault()
-		//TODO move the search function to a separate component, e.g. to Entry?
+		//TODO work around for entries like altus1 & altus2
+		//TODO look for alternative spellings (e.g. alloquor)
 		const selectedEntry = data.find(entry => entry.key === searchTerm);
-		if (selectedEntry==undefined){
+		if (selectedEntry===undefined){
 			setEntry("invalid");
 		}else{
 			setEntry(selectedEntry)
 		}
-		console.log("Selected entry = "+ entry)
 	}
 
 	return (
@@ -30,7 +32,7 @@ const Search = () => {
 					<input id='searchBox' value={searchTerm ?? ""} onChange={updateState} placeholder="Search the dictionary" />
 					<button>Search</button>
 				</form>
-				{entry? <Entry term={entry}/> : <p id={"empty"}></p>}
+				{entry? <Entry term={entry} /> : <p id={"empty"}></p>}
 			</div>
 
 		);
