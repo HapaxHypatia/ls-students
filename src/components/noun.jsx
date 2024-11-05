@@ -10,8 +10,8 @@ function Noun(props) {
 			<div>Declension: {props.declension}</div>
 			<div>Gender: {props.gender}</div>
 			<div>Genitive ending: {props.genitive}</div>
-			{props.main.map((item, index) => <div>{item}</div>)}
 			{props.senses.map((sense, index) => <Subsection key={index} sense={sense}/>)}
+			{props.main.map((item, index) => <div>{item}</div>)}
 
 		</div>
 	);

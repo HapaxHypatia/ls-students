@@ -5,10 +5,10 @@ import data from "../data/ls_A.json";
 
 
 function Entry(props) {
-	//map "abcdefghijklmnopqrstuvwxyz" to ./data/*
+	//TODO map "abcdefghijklmnopqrstuvwxyz" to ./data/*
 	const selectedEntry = props.term;
 
-	//TODO display ~5 headwords above and below this entry
+	//display 5 headwords above and below this entry
 	const index = data.indexOf(selectedEntry)
 	console.log(index);
 	const before = [];
@@ -34,13 +34,14 @@ function Entry(props) {
 	let genitive;
 
 
-	if (selectedEntry != "invalid"){
+	if (selectedEntry !== "invalid"){
 		part = selectedEntry.part_of_speech
-		main = selectedEntry.main_notes.split(/[;|()<>{}—\[\]\r\n/\\]+/)
 		senses = selectedEntry.senses;
 		declension = selectedEntry.declension;
 		gender = selectedEntry.gender;
 		genitive = selectedEntry.title_genitive;
+		main = selectedEntry.main_notes.split(/[;|()<>{}—[\]\r\n/\\]+/)
+
 	}
 
 
@@ -52,7 +53,8 @@ function Entry(props) {
 		return (
 			<div>
 				<div>{before} {after}</div>
-				{/*make each of these a link that replaces the entry with a new one*/}
+				{/*TODO make each of these a link that replaces the entry with a new one*/}
+				{/*TODO Style adjacent entries*/}
 				<div>{selectedEntry.key}</div>
 				<div>Part of speech: {part}</div>
 				{
