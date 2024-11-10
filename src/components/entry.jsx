@@ -1,16 +1,14 @@
 import React from "react";
 import Verb from "./verb";
 import Noun from "./noun";
-import data from "../data/ls_A.json";
 
 
 function Entry(props) {
-	//TODO map "abcdefghijklmnopqrstuvwxyz" to ./data/*
 	const selectedEntry = props.term;
+	const data = props.data
 
 	//display 5 headwords above and below this entry
 	const index = data.indexOf(selectedEntry)
-	console.log(index);
 	const before = [];
 	const after = [];
 
@@ -18,13 +16,11 @@ function Entry(props) {
 		//	get key of 5 entries before , add to list
 			before.push(data[i].key);
 		}
-		console.log(before);
 
 		for (let i=index+1; i<index+6; i++){
 		//	get key of 5 entries after, add to list
 			after.push(data[i].key);
 		}
-		console.log(after)
 
 	let part;
 	let main;
@@ -32,6 +28,8 @@ function Entry(props) {
 	let declension;
 	let gender;
 	let genitive;
+	let conjugation;
+	let principal_parts
 
 
 	if (selectedEntry !== "invalid"){
@@ -40,6 +38,9 @@ function Entry(props) {
 		declension = selectedEntry.declension;
 		gender = selectedEntry.gender;
 		genitive = selectedEntry.title_genitive;
+		conjugation = selectedEntry.conjugation;
+		principal_parts = selectedEntry.principal_parts;
+
 		main = selectedEntry.main_notes.split(/[;|()<>{}—[\]\r\n/\\]+/)
 
 	}
@@ -63,7 +64,6 @@ function Entry(props) {
 							case "noun":
 								return <Noun main={main}
 											 senses={senses}
-											 part = {part}
 											 declension = {declension}
 											 gender = {gender}
 											 genitive = {genitive}
@@ -71,7 +71,11 @@ function Entry(props) {
 
 								/>;
 							case "verb":
-								return <Verb main={main} senses={senses} part = {part} />;
+								return <Verb main= {main}
+											 senses= {senses}
+											 conj = {conjugation}
+											 parts = {principal_parts}
+								/>;
 							default:
 								return <div />
 

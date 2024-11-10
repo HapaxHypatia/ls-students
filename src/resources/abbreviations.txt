@@ -1,0 +1,87 @@
+OTHER ABBREVIATIONS, SIGNS, ETC.
+a. or act., active, -ly.	fin. or ad fin., at the end.	opp., opposed to, opposite, -tion.
+abbrev., abbreviated, -tion.	finit., finite (opp. to infinitive).	orig., originally.
+abl., ablative.	foll., following.	p., page.
+absol. or abs., absolute, -ly, i. e. without case or adjunct.	fr., from.	P. a., participal adjective.
+abstr., abstract.	Fr., French.	part., participle.
+acc., accusative or according.	fragm., frgm., or fr., fragmenta.	partit., partitive.
+access., accessory.	freq. or fr., frequentative or frequent, -ly.	pass., passive, -ly, or passage.
+ad loc. or ad h. l., ad locum or ad hunc locum.	fut., future.	patr., patronymic.
+adj., adjective, -ly.	gen., genitive or general.	per., period.
+adv., adverb, -ial, -ially; or adversus.	geog., geography, -ical.	perf., perfect.
+agric. or agricult., agricultural.	Germ., German.	perh., perhaps.
+a. h. v., ad hanc vocem.	Goth., Gothic.	pers., personal, -ly.
+al., alii or alia, others or other.	gr. or gram., grammar, -ian, -atical, grammatici.	philos., philosophy, -ical, -ically, -opher.
+amplif., amplificative.	Gr. Greek.	pl. or plur., plural.
+analog., analogous, -ly.	h., hence.	pleon., pleonastically.
+antiq., antiquities.	h. l., hic locus (this passage).	plqpf., plusquamperfectum.
+ap., apud (in).	h.v., h. vv., this word, these words.	plur. tant., used only in the plural.
+appel., appellative.	Heb., Hebrew.	poet., poetical, -ly.
+append. or app., appendix.	hibr., hybrid.	polit., political, -ly.
+Arab., Arabic.	hist., history, -ian.	posit. or pos., positive.
+archit., architecture, -tural.	ib., ibidem.	poss., possessive.
+art., article.	id., idem.	praef., praefatio.
+aug., augmentative.	i. e., id est.	praep., preposition.
+Aug., Augustan.	i. q., idem quod.	preced., preceding.
+c., cum (with).	imper., imperative.	pregn., pregnant, -ly.
+c. c., coupled with.	imperf., imperfect.	prep., preposition.
+cf., confer (compare).	impers., impersonal, -ly.	pres., present.
+chh., church.	inanim., inanimate.	prob., probably.
+class., classic, -al.	in bon. part., in bonam partem.	prol., prologus.
+Cod., Codex (MS).	in mal. part., in malam partem.	pron., pronoun.
+collat., collateral.	inch., inchoative, inceptive.	prooem., prooemium.
+collect., collective, -ly.	indecl., indeclinable.	prop., proper, -ly, in a proper sense.
+com., commonly, comicus, comic, or in comedy.	indef., indefinite.	prov. or proverb., proverbial, -ly.
+comm. or c., common gender.	indic., indicative.	qs., quasi.
+commentt., commentators.	inf., infinitive.	q. v., quod videas.
+comp., compare or comparative.	init., in., or ad init., at the beginning.	rad., radical or root.
+compd., compound.	inscrr., inscriptions.	rar., rare, -ly.
+concr., concrete.	intens., intensive.	ref., refer, -ence.
+conj., conjunction, conjunctive, or conjugation.	interrog., interrogative, -tion.	rel., relative or reliquiae.
+constr., construed, -ction.	intr., intransitive.	respect., respectûs.
+contr., contracted, contraction, or contrary.	Ital., Italian.	rhet., rhetoric, -al; in rhetoric.
+corresp., corresponding.	JCtus., juris consultus.	Rom., Roman.
+dat., dative.	jurid., juridical.	saep., saepe.
+decl., declension.	kindr., kindred.	saepis., saepissime.
+demonstr. or dem., demonstrative.	l., lege or lectio.	sc., scilicet.
+dep., deponent.	l. c. or l. l., loco citato or laudato, in the place already cited.	s. h. v., sub hac voce.
+deriv., derived, -ative, -ation.	lang., language.	signif., signifies, -cation.
+diff., differs or different.	Lat., Latin.	simp., simple.
+dim., diminutive.	leg., legit, legunt.	Span., Spanish.
+dissyl., dissyllable, -abic.	lex., lexicon.	specif., specifically.
+distr., distributive.	lit., literal, in a literal sense.	sq., sequens; sqq., sequentes (and the following).
+dub., doubtful.	Lith., Lithuanian.	subj., subjunctive.
+eccl., ecclesiastical.	m. or masc., masculine.	subject. or subj., subject, subjective. -ly.
+ed., editio or editor.	math., mathematics, -ical.	subst., substantive, -ly.
+e. g., exempli gratiâ.	med., medio (in the middle).	suff., suffix.
+ellipt., elliptical, -ly.	medic., medical or medicine.	sup., superlative or supine.
+elsewh., elsewhere.	metaph., metaphorical, -ly.	syll., syllable.
+epic., epicene.	meton., by metonymy.	syn., synonym, -ymous.
+epit., epitaph.	mid. or med., medial; in a middle or reflexive sense.	sync., syncopated.
+equiv., equivalent.	milit., military, in military affairs.	tab., tabula (table, plate).
+esp., especially.	MS., manuscript; MSS. manuscripts.	temp. tense or temporal.
+etc., et cetera.	n. or neutr. neuter.	term., terminus.
+etym. etymology, -ical.	n. pr. or nom. propr., nomen proprium.	trag., tragicus, tragic, or in tragedy.
+euphon., euphonic, -ny.	naut., nautical.	trans., translated, -tion.
+ex., exs., example, examples.	neg., negative, -ly.	transf., transferred.
+expl., explanation, explained.	no., numero.	trisyl., trisyllable, -abic.
+express., expression.	nom., nominative.	trop., in a tropical or figurative sense.
+ext., externa.	num. or numer., numeral.	t. t., technical term.
+extr., extremo (at the end).	obj. or object., object, objective, -ly.	usu., usual, -ly.
+f. or fem., feminine.	obl., oblique.	usu., usual, -ly.
+fig., figure, -ative, -atively.	om., omit.	v., verb, vide, or vox.
+onomat., onomatopoeia.	v. h. v., vide hanc vocem.
+var. lect., varia lectio (different reading.
+vb., verb.
+voc., vocative.
+* A star before a word denotes that it is found but once; before a meaning, that the meaning is found but once; and before an author's name, that the word is used but once in his writings.
+
+† This denotes that the word to which it is prefixed is borrowed from the Greek.
+
+†† These indicate that a word is borrowed from some other language than the Greek.
+
+‡ This shows that a word is found only in inscriptions, or in the old grammarians or lexicographers.
+
+Words enclosed in brackets, at the beginning of articles, relate to etymology; elsewhere, are of questionable authenticity.
+
+Words italicized in the citations have been supplied by the conjecture of editors.

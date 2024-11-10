@@ -13,7 +13,7 @@ function Subsection(props){
 		);
 	}
 	else {
-		let split = item.split(/[;|()<>{}—\[\]\r\n/\\]+/);
+		let split = item.split(/[;|()<>{}—[\]\r\n/\\]+/);
 		return (
 			<div className={"subsection"}>
 				{split.map((sentence) => <div>{sentence}</div>)}

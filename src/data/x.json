@@ -1,0 +1,623 @@
+[
+    {
+        "entry_type": "main",
+        "key": "X",
+        "main_notes": "A character probably derived from the Greek \u039e (this form of that letter being found in some few Greek inscriptions). Though not introduced instead of the characters for the two separate sounds till after the adoption of the alphabet, the letter x is certainly older than the Latin inscriptions known to us; for we find in the Columna rostr., EXEMET MAXIMOS, EXFOCIONT; in the fifth Epitaph of the Scipios, SAXSVM; and in the S. C. de Bacch., EXDEICENDVM, EXDEICATIS. EXTRAD, etc.The sound of X was like that of the Greek \u03be, i. e. ks, although etymologically it represented not only cs (as in lux, from luc-s, and dixi, from dic-si), but also gs (as in lex, from leg-s; rexi, from reg-si); hs (as in traxi, from trah-si; vexi, from vehsi); and chs (as in the word onyx, from onych-s, borrowed from the Greek). The hardening of a softer final (g, h, ch) before s into the c-sound, which occurs in the last-mentioned cases, is found also in several roots ending in v and u: nix for niv-s, vixi for viv-si, connixi for conniv-si, fluxi for fluv-si, from fluo (root FLUV; cf. fluvius), struxi for stru-si. Less frequently x has arisen from the combinations ps and ts: proximus for prop-simus (from prope), nixus for nit-sus (from nitor), the latter being used along with the collateral form nisus, as also connivi with connixi, and mistus (from misceo) with mixtus. An exchange of the sounds ss, or s and x, took place in axis for assis, laxus for lassus; cf. also Ulixes, from the Sicilian \u039f\u03c5\u0313\u03bb\u03b9\u0341\u03be\u03b7\u03c2, Etruscan Uluxe for \u039f\u0313\u03b4\u03c5\u03c3\u03c3\u03b5\u03c5\u0341\u03c2; so, too. Sextius, Exquiliae = Sestius, Esquiliae; cf. also Ajax = \u0391\u03b9\u0313\u0341\u03b1\u03c2. In the later language of the vulgar, the guttural sound in x disappeared, and s or ss was often written for it; as vis for vix. vixit for visit. unsit for unxit, conflississet for conflixisset, in late Inscrr. (v. Corss. Ausspr. I. p. 297 sq.); hence regularly in Italian, and frequently in the  other Romance tongues, the Lat. x is represented by s or ss. Respecting the nature of x in composition, v. ex.By a mere graphic variation, one of the constituent sounds of x is often expressed in inscriptions (but not the earliest, v. Corss. Ausspr. I. p. 296) by an additional c or s; as SACXO or SAXSO for saxo; VCXOR or VXSOR for uxor; CONIVNCX or CONIVNXS for conjux; even both sounds are sometimes thus expressed, VICXSIT for vixit.As an abbreviation X stands for decem, ten; it was stamped upon the silver denarius, so called because it was valued at ten asses.",
+        "part_of_speech": "letter",
+        "title_orthography": "X, x"
+    },
+    {
+        "entry_type": "main",
+        "key": "Xanthicus",
+        "main_notes": "Xanth\u012dcus, a, um,  (sc. mensis)",
+        "part_of_speech": "adjective",
+        "senses": [
+            "The Macedonian name of a month which corresponded to the Roman Aprilis, Cassiod. Hist. Eccl. 9, 38."
+        ]
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Xanthippe",
+        "main_notes": "\u039e\u03b1\u03bd\u03b8\u03b9\u0341\u03c0\u03c0\u03b7",
+        "part_of_speech": "noun",
+        "senses": [
+            "The wife of Socrates, Cic. Tusc. 3, 15, 31; Gell. 1, 17, 1."
+        ],
+        "title_genitive": "\u0113s",
+        "title_orthography": "Xanthipp\u0113"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xanthippus",
+        "main_notes": "\u039e\u03b1\u0341\u03bd\u03b8\u03b9\u03c0\u03c0\u03bf\u03c2.",
+        "part_of_speech": "noun",
+        "senses": [
+            "The father of Pericles, Cic. Brut. 11, 44.",
+            "A Lacedoemonian, who took Regulus prisoner, Cic. Off. 3, 26, 99."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "Xanthippus"
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Xantho",
+        "main_notes": "\u039e\u03b1\u03bd\u03b8\u03c9\u0341",
+        "part_of_speech": "noun",
+        "senses": [
+            "A sea-nymph, daughter of Nereus and Doris, Verg. G. 4, 336."
+        ],
+        "title_genitive": "\u016bs",
+        "title_orthography": "Xantho"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03be\u03b1\u0341\u03bd\u03b8\u03bf\u03c2",
+        "key": "xanthos",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A precious stone of a golden color, otherwise unknown, Plin. 37, 10, 60, \u00a7 169."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "xanthos"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xanthus",
+        "main_notes": "\u039e\u03b1\u0341\u03bd\u03b8\u03bf\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "The name of several rivers.",
+            "A river of Troas, confounded by many with the Scamander, Plin. 5, 30, 33, \u00a7 124; 2, 103, 106, \u00a7 230; Verg. A. 1, 473; 5, 634 al.; Ov. M. 2, 245; 9, 646; Vitr. 8, 3 med.",
+            "A river in Lycia, near a town of the same name, now Essenide, Mel. 1, 15, 3; Verg. A. 4, 143; id. Cul. 14; Hor. C. 4, 6, 26; Plin. 5, 27, 28, \u00a7 100; 6, 34, 39, \u00a7 214.",
+            "A small stream in Epirus, Verg. A. 3, 350."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "Xanthus"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xeniades",
+        "main_notes": "\u039e\u03b5\u03bd\u03b9\u03b1\u0341\u03b4\u03b7\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A Corinthian who purchased and liberated Diogenes the Cynic, Gell. 2, 18, 9."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "X\u0115ni\u0103des"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "N",
+        "key": "xeniolum",
+        "main_notes": "dim.xenium",
+        "part_of_speech": "noun",
+        "senses": [
+            "A small gift or present, App. M. 2, p. 119, 24; Dig. 1, 16, 6."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "x\u0115n\u012d\u014flum"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03be\u03b5\u0341\u03bd\u03b9\u03bf\u03bd",
+        "key": "xenium",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A gift or present made to a guest (pure Lat. lautia).",
+            "Lit., Plin. Ep. 6, 31, 14; Vitr. 6, 10.\u2014Hence, Xenia, the title of the thirteenth book of Martial's epigrams, because treating of such things as were usually presented to guests, Mart. 13, 3, 1.",
+            "Transf., in gen., a gift. present, Plin. Ep. 5, 14, 8; Dig. 1, 16, 6; Vulg. Ecclus. 20, 31."
+        ],
+        "title_genitive": "ii",
+        "title_orthography": "x\u0115n\u012dum"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xeno",
+        "main_notes": "\u039e\u03b5\u0341\u03bd\u03c9\u03bd",
+        "part_of_speech": "noun",
+        "senses": [
+            "An Epicurean philosopher, a native of Athens, Cic. Att. 5, 10, 5; 5, 11, 6; 7, 1, 1; 13, 37, 1."
+        ],
+        "title_genitive": "\u014dnis",
+        "title_orthography": "X\u0115no"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xenocles",
+        "main_notes": "\u039e\u03b5\u03bd\u03bf\u03ba\u03bb\u03b7\u0342\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A rhetorician of Adramytteum, Cic. Brut. 91, 316."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "X\u0115nocles"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xenocrates",
+        "main_notes": "\u039e\u03b5\u03bd\u03bf\u03ba\u03c1\u03b1\u0341\u03c4\u03b7\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A disciple of Plato, born at Chalcedon in the 95th Olympiad, B. C. 400, Cic. Ac. 1, 4, 17; id. Tusc. 5, 18, 51; id. Off. 1, 30, 109; id. Rep. 1, 2, 3.",
+            "A sculptor, a pupil of Tisicrates, and author of works on sculpture, Plin. 34, 8, 19, \u00a7 83.",
+            "A writer on the art of painting, Plin. 35, 10, 36, \u00a7 68."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "X\u0115n\u014fcr\u0103tes"
+    },
+    {
+        "alternative_genative": [
+            "\u014dnis"
+        ],
+        "alternative_orthography": [
+            "-\u0113um",
+            "x\u0115n\u014dn"
+        ],
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03be\u03b5\u03bd\u03bf\u03b4\u03bf\u03c7\u03b5\u03b9\u0342\u03bf\u03bd",
+        "key": "xenodochium",
+        "main_notes": "or",
+        "part_of_speech": "noun",
+        "senses": [
+            "A public building for the reception of strangers, a caravansary, a stranger's hospital (syn. deversorium), Hier. Ep. 66, 11; Cod. Just. 1, 2, 17; 1, 3, 33; 1, 3, 35. \u2014Called also , , Cod. Just. 1, 2, 19 al."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "x\u0115n\u014fd\u014fch\u012bum"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03be\u03b5\u03bd\u03bf\u03b4\u03bf\u0341\u03c7\u03bf\u03c2",
+        "key": "xenodochus",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "One who receives strangers, a superintendent of the stranger's hospital, Cod. Just. 1, 8, 33 fin."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "x\u0115n\u014fd\u014fchus"
+    },
+    {
+        "entry_type": "main",
+        "key": "xenon",
+        "main_notes": "x\u0115n\u014dn, v. xenodochium.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03be\u03b5\u03bd\u03bf\u03c0\u03b1\u0341\u03c1\u03bf\u03c7\u03bf\u03c2",
+        "key": "xenoparochus",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "One who attends to or provides for strangers, Dig. 5, 4, 18."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "x\u0115n\u014fp\u0103r\u014fchus"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xenophanes",
+        "main_notes": "\u039e\u03b5\u03bd\u03bf\u03c6\u03b1\u0341\u03bd\u03b7\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A celebrated Greek philosopher of Colophon, born about B. C. 556, a disciple of Archelous, Cic. Ac. 2, 37, 118; id. N. D. 1, 11, 28; id. Div. 1, 3, 5; 1, 39, 87; Lact. 3, 23, 11."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "X\u0115n\u014fph\u0103nes"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xenophilus",
+        "main_notes": "\u039e\u03b5\u03bd\u03bf\u0341\u03c6\u03b9\u03bb\u03bf\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A Pythagorean philosopher and musician, Val. Max. 8, 13, ext. 2; Plin. 7, 50, 51 \u00a7 168."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "X\u0115n\u014fph\u012dlus"
+    },
+    {
+        "entry_type": "main",
+        "key": "Xenophon",
+        "main_notes": "X\u0115n\u014fphon, ontis, m., = \u039e\u03b5\u03bd\u03bf\u03c6\u03c9\u0342\u03bd",
+        "part_of_speech": "adjective",
+        "senses": [
+            "A celebratea Greek historian and philosopher, born B. C. 445, a pupil of Socrates and a leader of the Greeks in the army of Cyrus  the younger, Cic. Div. 1, 25, 52; id. Tusc. 5, 34, 99; id. Sen. 9, 30; id. Leg. 2, 22, 56; Varr. R. R. 1, 1, 8.\u2014Hence, X\u0115n\u014fphont\u0113us or -\u012bus, a, um, , = \u039e\u03b5\u03bd\u03bf\u03c6\u03bf\u0341\u03bd\u03c4\u03b5\u03b9\u03bf\u03c2, of or belonging to Xenophon, Xenophontian: genus sermonis,Cic. Brut. 35, 132: Hercules,i. e. mentioned in his writings,id. Fam. 5, 12, 3."
+        ]
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03be\u03b7\u03c1\u03b1\u03bc\u03c0\u03b5\u03bb\u03b9\u03bd\u03b1\u03b9",
+        "key": "xerampelinae",
+        "main_notes": "\u0101rum.  (sc. vestes), =  (of the color of dry vineleaves)",
+        "part_of_speech": "noun",
+        "senses": [
+            "Dark-red or dark-colored clothes, Juv. 6, 519."
+        ],
+        "title_genitive": null,
+        "title_orthography": "x\u0113ramp\u0115l\u012dnae"
+    },
+    {
+        "entry_type": "greek",
+        "greek_word": "\u03be\u03b7\u03c1\u03b1\u03bd\u03c4\u03b9\u03ba\u03bf\u0341\u03c2",
+        "key": "xeranticus",
+        "main_notes": "x\u0113rant\u012dcus, a, um",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Drying: decoctio, Macer, 1, 88; Theod. Prisc. 2, 3."
+        ]
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03be\u03b7\u03c1\u03bf\u03ba\u03bf\u03bb\u03bb\u03c5\u0341\u03c1\u03b9\u03bf\u03bd",
+        "key": "xerocollyrium",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A dry salve, Marc. Emp. 8, 3."
+        ],
+        "title_genitive": "ii",
+        "title_orthography": "x\u0113r\u014fcoll\u0233r\u012dum"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xerolophus",
+        "main_notes": "\u039e\u03b7\u03c1\u03bf\u0341\u03bb\u03bf\u03c6\u03bf\u03c2 (prop. Dry Hill)",
+        "part_of_speech": "noun",
+        "senses": [
+            "The name of a place in Byzantium, Just. Inst. 4, 18, 5; Prisc. p. 347 P."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "X\u0113r\u014fl\u014fphus"
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "xeromyrrha",
+        "main_notes": "(\u03be\u03b7\u03c1\u03bf\u0341\u03c2-\u03bc\u03c5\u0341\u03c1\u03c1\u03b1)",
+        "part_of_speech": "noun",
+        "senses": [
+            "Dry myrrh, Sedul. Hymn. 2, 81."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "x\u0113r\u014fmyrrha"
+    },
+    {
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03be\u03b7\u03c1\u03bf\u03c6\u03b1\u03b3\u03b9\u0341\u03b1",
+        "key": "xerophagia",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "The eating of dry food: xerophagias observare, Tert. adv Psych. 1 fin."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "x\u0113r\u014fph\u0103g\u012da"
+    },
+    {
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03be\u03b7\u03c1\u03bf\u03c6\u03b8\u03b1\u03bb\u03bc\u03b9\u0341\u03b1",
+        "key": "xerophthalmia",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A dry soreness of the eyes, an inflammation of the eyes, Marc. Emp. 8, 3 (in Cels. 6, 6, 29, written as Greek)."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "x\u0113rophthalm\u012da"
+    },
+    {
+        "alternative_orthography": [
+            "Xerses"
+        ],
+        "declension": null,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xerxes",
+        "main_notes": "(, Cic. Leg. 2, 10, 26), is (i, Nep. Reg. 1), , = \u039e\u03b5\u0341\u03c1\u03be\u03b7\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "The celebrated king of Persia, son of Darius Hystaspis, vanquished by the Greeks at Salamis, Cic. Tusc. 5, 7, 20; id. N. D. 1, 41, 115."
+        ],
+        "title_genitive": null,
+        "title_orthography": "Xerxes"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03be\u03b9\u03c6\u03b9\u0341\u03b1\u03c2",
+        "key": "xiphias",
+        "main_notes": "(swordshaped).",
+        "part_of_speech": "noun",
+        "senses": [
+            "A sword-fish: Xiphias gladius, Linn.; Plin. 32, 2, 6, \u00a7 15; Ov. Hal. 97.",
+            "A sword-shaped comet, Plin. 2, 25, 22, \u00a7 89."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "x\u012dph\u012das"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03be\u03b9\u03c6\u03b9\u0341\u03bf\u03bd",
+        "key": "xiphion",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Sword-flag, gladiole, Plin. 25, 11, 88, \u00a7 137."
+        ],
+        "title_genitive": "ii",
+        "title_orthography": "x\u012dph\u012don"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xuthus",
+        "main_notes": "\u039e\u03bf\u03c5\u0342\u03b8\u03bf\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A son of Helen, grandson of Deucalion, and father of a branch of the Hellenic nation, T. Mam. Syll. 884."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "X\u016bthus"
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Xyline",
+        "main_notes": "(\u03be\u03c5\u03bb\u03b9\u0341\u03bd\u03b7):",
+        "part_of_speech": "noun",
+        "senses": [
+            "Xyline come,a village in Pamphylia,Liv. 38, 15."
+        ],
+        "title_genitive": "\u0113s",
+        "title_orthography": "Xyl\u012dn\u0113"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03be\u03c5\u0341\u03bb\u03b9\u03bd\u03bf\u03bd",
+        "key": "xylinum",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Cotton, Plin. 19, 1, 2, \u00a7 14."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "xyl\u012dnum"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03be\u03c5\u03bb\u03bf\u03b2\u03b1\u0341\u03bb\u03c3\u03b1\u03bc\u03bf\u03bd",
+        "key": "xylobalsamum",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Balsam-wood, the wood of the balsamtree, Plin. 12, 25, 54, \u00a7 118; 13, 1, 2, \u00a7\u00a7 13, 15; 29, 3, 13, \u00a7 56."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "xyl\u014fbals\u0103mum"
+    },
+    {
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03be\u03c5\u03bb\u03bf\u03ba\u03b1\u03c3\u03c3\u03b9\u0341\u03b1",
+        "key": "xylocassia",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "The wood of the cassia, cassia-wood, Dig. 39, 4, 16, \u00a7 7."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "xyl\u014fcass\u012da"
+    },
+    {
+        "alternative_genative": [
+            "i"
+        ],
+        "alternative_orthography": [
+            "xyl\u014f-cinn\u0103mum"
+        ],
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N.n",
+        "greek_word": "\u03be\u03c5\u03bb\u03bf\u03ba\u03b9\u03bd\u03bd\u03b1\u0341\u03bc\u03c9\u03bc\u03bf\u03bd",
+        "key": "xylocinnamomum",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "The wood of the cinnamonshrub, cinnamon-wood, Plin. 12, 19, 42, \u00a7 91; Dig. 39, 4, 16, \u00a7 7.\u2014Also contracted, , , , Scrib. Comp. 271."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "xyl\u014fcinn\u0103m\u014dmum"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03be\u03c5\u0341\u03bb\u03bf\u03bd",
+        "key": "xylon",
+        "main_notes": "(wood;",
+        "part_of_speech": "noun",
+        "senses": [
+            "In partic.),the cotton-tree,Plin. 19, 1, 2, \u00a7 14."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "xylon"
+    },
+    {
+        "alternative_orthography": [
+            "-on"
+        ],
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "N",
+        "key": "xylophytum",
+        "main_notes": "(), , , = \u03be\u03c5\u03bb\u03bf\u0341\u03c6\u03c5\u03c4\u03bf\u03bd",
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of herb, comfrey, App. Herb. 59."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "xyl\u014fphytum"
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Xyniae",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A town of Thessaly, Liv. 32, 13, 14; 33, 3, 8; 39, 26, 2."
+        ],
+        "title_genitive": "\u0101rum",
+        "title_orthography": "X\u0233n\u012dae"
+    },
+    {
+        "declension": 3,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03be\u03c5\u03c1\u03b9\u0341\u03c2",
+        "key": "xyris",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Wild iris, Plin. 21, 20, 83, \u00a7 143."
+        ],
+        "title_genitive": "idis",
+        "title_orthography": "xyris"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03be\u03c5\u03c3\u03c4\u03b1\u0341\u03c1\u03c7\u03b7\u03c2",
+        "key": "xystarches",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "The master, director, or manager of a xystus, Amm. 21, 1, 4; Tert. ad Mart. 3."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "xystarches"
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Xystiani",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A people of Caria, Plin. 5, 29, 29, \u00a7 109."
+        ],
+        "title_genitive": "\u014drum",
+        "title_orthography": "Xyst\u012d\u0101ni"
+    },
+    {
+        "entry_type": "greek",
+        "greek_word": "\u03be\u03c5\u03c3\u03c4\u03b9\u03ba\u03bf\u0341\u03c2",
+        "key": "xysticus",
+        "main_notes": "xyst\u012dcus, a, um",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Of or belonging to a xystus.",
+            "Adj.: vanitas,i. e. of the athletes,Tert. Pud. 7 med.",
+            "Subst.: xyst\u012dci, \u014drum, m., athletes, Suet. Aug. 45; Dig. 3, 2, 4; Inscr. Grut. 332, 6."
+        ]
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Xystilis",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "The name of a woman, Plaut. Ps. 1, 2, 81."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "Xyst\u012dlis"
+    },
+    {
+        "entry_type": "main",
+        "key": "xystum",
+        "main_notes": "xystum, i, v xystus.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "alternative_genative": [
+            "i"
+        ],
+        "alternative_orthography": [
+            "xystum"
+        ],
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "M.n",
+        "key": "xystus",
+        "main_notes": "m., or , , n., = \u03be\u03c5\u03c3\u03c4\u03bf\u0341\u03c2 or \u03be\u03c5\u03c3\u03c4\u03bf\u0341\u03bd.",
+        "part_of_speech": "noun",
+        "senses": [
+            "Among the Greeks, a covered portico or gallery, where the athletes exercised in winter, Vitr. 5, 11, 4; 6, 10, 5; Tert. Apol. 38.",
+            "Among the Romans, an open colonnade or portico, or a walk planted with trees, etc., for recreation, conversation, philosophic discussion, etc., Cic. Att. 1, 8, 2; id. Brut. 3, 10; id. Ac. 2, 3, 9; Sen. Ira. 3, 18, 3; Plin. Ep. 2, 17, 17; 5, 6, 19; 9, 7, 4; 9, 36, 3; Suet. Aug. 72; Phaedr. 2, 5, 18."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "xystus"
+    }
+]

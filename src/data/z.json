@@ -1,0 +1,1093 @@
+[
+    {
+        "entry_type": "main",
+        "key": "Z",
+        "main_notes": "Was perhaps a letter of the original Latin alphabet, since it is found in the Carmen Saliare, Varr. L. L. 7, \u00a7 26 M\u00fcll.; and in a Latin record of an Oscan law of the time of the Gracchi, C. I. L. 1, 197; but it had long disappeared, when, in Cicero's time, it again came into use, but only in transcribing Greek names, to represent the Greek \u0396, \u03b6, which had previously been represented, when initial, by s, as in Saguntum for \u0396\u03b1\u0341\u03ba\u03c5\u03bd\u03b8\u03bf\u03c2, Sethus, sona, etc.; and by ss when medial, as in Atticisso, badissas, etc., in Plautus. It seems to have been sounded like the Engl. z (Corss. Ausspr. 1, p. 295; but cf. Roby, Gr. 1, \u00a7 195). In late Latin writings z is very frequent in place of s, and in the words Zmyrna for Smyrna, zmaragdus for smaragdus, is found in the best MSS. In writings of the third and fourth Christian centuries z often stands for initial di before a vowel, as zaconus, zabulus, etc.; cf. the Aeolic \u03b6\u03b1\u0341 for \u03b4\u03b9\u03b1\u0341.",
+        "part_of_speech": "letter",
+        "title_orthography": "Z, z"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zabulon",
+        "main_notes": "\u0396\u03b1\u03b2\u03bf\u03c5\u03bb\u03c9\u0341\u03bd",
+        "part_of_speech": "noun",
+        "senses": [
+            "One of the tribes of Israel, Juvenc. 1, 441; cf. Vulg. Apoc. 7, 8."
+        ],
+        "title_genitive": "\u014dnis",
+        "title_orthography": "Z\u0103b\u016dl\u014dn"
+    },
+    {
+        "alternative_orthography": [
+            "Z\u0101b\u014flus"
+        ],
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zabulus",
+        "main_notes": "or , , , = \u0396\u03b1\u0341\u03b2\u03bf\u03bb\u03bf\u03c2 (collat. form of \u0394\u03b9\u03b1\u0341\u03b2\u03bf\u03bb\u03bf\u03c2; cf. the letter D",
+        "part_of_speech": "noun",
+        "senses": [
+            "Init.), the Devil, Lact. Mort. Pers. 16."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "Z\u0101b\u016dlus"
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zacharias",
+        "main_notes": "(",
+        "part_of_speech": "noun",
+        "senses": [
+            "I short, Juvenc. 1, 29; Paul. Nol. 5, 27; Sid. Carm. 16, 36), = \u0396\u03b1\u03c7\u03b1\u03c1\u03b9\u0341\u03b1\u03c2, Zacharias, the father of St. John the Baptist, Vulg. Luc. 1, 5; 1, 12; 1, 13; 3, 2; Lact. 4, 14, 6."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "Zach\u0103r\u012bas"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zacynthius",
+        "main_notes": "Z\u0103cynth\u012dus, a, um, v. Zacynthus.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "entry_type": "main",
+        "key": "Zacynthus",
+        "main_notes": "Z\u0103cynthus or -\u014fs, i, f., = \u0396\u03b1\u0341\u03ba\u03c5\u03bd\u03b8\u03bf\u03c2",
+        "part_of_speech": "adjective",
+        "senses": [
+            "An island in the Ionian Sea, now Zante or Zacyntho, Mel. 2, 7, 10; Plin. 4, 12, 19, \u00a7 54; Liv. 21, 7; 26, 24; Verg. A. 3, 270; Plaut. Merc. 3, 4, 62; Ov. H. 1, 87 al.\u2014Hence, Z\u0103cynth\u012dus, a, um, , of or belonging to Zacynthus, Zacynthian: Calchas,Plaut. Merc. 5, 2, 104: bitumen,Plin. 35, 15, 51, \u00a7 178."
+        ]
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zaleucus",
+        "main_notes": "\u0396\u03b1\u0341\u03bb\u03b5\u03c5\u03ba\u03bf\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A lawgiver of the Locrians, Cic. Att. 6, 1, 18; id. Leg. 1, 22, 57; 2, 6, 14; Sen. Ep. 90, 5."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "Z\u0103leucus"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zama",
+        "main_notes": "Z\u0103ma, ae, f., = \u0396\u03b1\u0341\u03bc\u03b1.",
+        "part_of_speech": "adjective",
+        "senses": [
+            "A small town in Numidia (now Zamra), celebrated for the victory gained there by Scipio over Hannibal, Liv. 30, 29; Sil. 3, 261 al.",
+            "Another town in Numidia, also, with the addition regia, the residence of Juba, now Jama, Sall. J. 57 sq.; Auct. B. Afr. 91; Inscr. Grut. 364, 1.\u2014Hence, Z\u0103mensis, e, , of or belonging to Zama: oppidum,i. e. Zama,Plin. 5, 4, 4, \u00a7 30 (al. Ziamensis). \u2014As subst.: Z\u0103menses, \u012dum, m., the inhabitants of Zama, Auct. B. Afr. 92."
+        ]
+    },
+    {
+        "alternative_orthography": [
+            "s\u0101m\u012da"
+        ],
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03b6\u03b7\u03bc\u03b9\u0341\u03b1",
+        "key": "zamia",
+        "main_notes": "(; cf. Fleck. Ep. Crit. 12)",
+        "part_of_speech": "noun",
+        "senses": [
+            "Hurt, damage, loss (cf. detrimentum), Plaut. Aul. 2, 2, 20."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u0101m\u012da"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zamolxis",
+        "main_notes": "\u0396\u03b1\u0341\u03bc\u03bf\u03bb\u03be\u03b9\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A Thracian philosopher, App. Mag. p. 290, 9."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "Z\u0103molxis"
+    },
+    {
+        "alternative_orthography": [
+            "zanca",
+            "zanga"
+        ],
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "zancha",
+        "main_notes": "or",
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of soft Parthian shoe, Gallien. ap. Treb. Claud. 17; Cod. Th. 14, 10, 2."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "zancha"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zancle",
+        "main_notes": "Zancl\u0113, \u0113s, f., = \u0396\u03b1\u0341\u03b3\u03ba\u03bb\u03b7",
+        "part_of_speech": "adj.adj.",
+        "senses": [
+            "An older name of the city of Messana (Messina), in Sicily, Ov. M. 14, 5; 15, 290; Sil. 1, 662.\u2014Hence",
+            [
+                "Zanclaeus, a, um, adj., of or belonging to Zancle, Zanclean: harena,i. e. Sicily,Ov. M. 13, 729.",
+                "Zancl\u0113\u012dus, a, um, adj., of Zancle, Zanclean: moenia,i. e. Messana,Sil. 14, 48: saxa,Ov. M. 14, 47."
+            ]
+        ]
+    },
+    {
+        "declension": 3,
+        "entry_type": "greek",
+        "gender": "M",
+        "key": "zanthenes",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A yellow gem, Plin. 37, 10, 70, \u00a7 185."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "zanthenes"
+    },
+    {
+        "entry_type": "greek",
+        "greek_word": "\u03b6\u03b1\u0341\u03c0\u03bb\u03bf\u03c5\u03c4\u03bf\u03c2",
+        "key": "zaplutus",
+        "main_notes": "z\u0101pl\u016btus, a, um",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Very rich, Petr. 37."
+        ]
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "zea",
+        "main_notes": "\u03b6\u03b5\u03b9\u03b1\u0313.",
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of grain, spelt: Triticum spelta, Linn. (pure Lat. alica); Plin. 18, 8, 19, \u00a7 81 sq.; Hier. in Isa. 9, 28, 25; id. in Ezech. 4, 9.",
+            "A kind of rosemary, App. Herb. 97."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u0113a"
+    },
+    {
+        "entry_type": "main",
+        "key": "zelanter",
+        "main_notes": "z\u0113lanter, zelo",
+        "part_of_speech": "adverb",
+        "senses": [
+            "Zealously (late Lat.), Ven. Fort. Vit. Patern. 3."
+        ]
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "zelator",
+        "main_notes": "id.",
+        "part_of_speech": "noun",
+        "senses": [
+            "A zealous person, a zealot, Ven. Carm. 5, 6, 12; Ambros. in Psa. 51, 15."
+        ],
+        "title_genitive": "\u014dris",
+        "title_orthography": "z\u0113l\u0101tor"
+    },
+    {
+        "declension": 1,
+        "entry_type": "spur",
+        "gender": "F",
+        "key": "zelivira",
+        "main_notes": "a false read. for caelibi, Tert. Exhort. Cast. 9.",
+        "part_of_speech": "noun",
+        "senses": [],
+        "title_genitive": "ae",
+        "title_orthography": "z\u0113l\u012dv\u012dra"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03b7\u03bb\u03c9\u03c4\u03b7\u0341\u03c2",
+        "key": "zelotes",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "One that loves with jealousy, one that is jealous (eccl. Lat.); of God,Tert. adv. Marc. 1, 28; 4, 25; Vulg. Exod. 20, 5 al."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u0113l\u014dtes"
+    },
+    {
+        "entry_type": "main",
+        "key": "zelotypa",
+        "main_notes": "z\u0113l\u014ftypa, ae, v. zelotypus, 2.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03b6\u03b7\u03bb\u03bf\u03c4\u03c5\u03c0\u03b9\u0341\u03b1",
+        "key": "zelotypia",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Jealousy, Plin. 25, 7, 37, \u00a7 75; Vulg. Num. 5, 14 (in Cic. Tusc. 4, 8, 18, and Att. 10, 8, A, 1, written as Greek)."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u0113l\u014ftyp\u012da"
+    },
+    {
+        "entry_type": "greek",
+        "greek_word": "\u03b6\u03b7\u03bb\u03bf\u0341\u03c4\u03c5\u03c0\u03bf\u03c2",
+        "key": "zelotypus",
+        "main_notes": "z\u0113l\u014ftypus, a, um",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Jealous: larba,Juv. 5, 45: moechae,id. 6, 278.\u2014As substt.",
+            [
+                "Z\u0113l\u014ftypus, i, m., a jealous man, Petr. 45; Quint. 4, 2, 30; Mart. 1, 93, 13.",
+                [
+                    "Z\u0113l\u014ftypa, ae, f., a jealous woman, Petr. 69."
+                ]
+            ]
+        ]
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03b7\u0342\u03bb\u03bf\u03c2",
+        "key": "zelus",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Zeal, emulation; jealousy, Vitr. 7 praef.; Prud. Ham. 188; Aus. Epigr. 77; Hier. in Gal. 2, 4, vv. 17, 18; Vulg. Num. 25, 11."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "z\u0113lus"
+    },
+    {
+        "alternative_orthography": [
+            "z\u016dma"
+        ],
+        "declension": 3,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03b6\u03b5\u0341\u03bc\u03b1",
+        "key": "zema",
+        "main_notes": "or",
+        "part_of_speech": "noun",
+        "senses": [
+            "A cooking utensil, a saucepan, Apic. 8, 1 fin.; Val. ap. Treb. Claud. 14; Serv. ad Verg. A. 3, 466."
+        ],
+        "title_genitive": "atis",
+        "title_orthography": "z\u0115ma"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zeno",
+        "main_notes": "Z\u0113no or Z\u0113non, \u014dnis, m., = \u0396\u03b7\u0313\u03bd\u03c9\u03bd",
+        "part_of_speech": "adjective",
+        "senses": [
+            "The name of several Greek philosophers.",
+            "The founder of the Stoic school, a native of Cittium in Cyprus; form Zeno, Varr. R. R. 2, 1, 3; Cic. Fin. 3, 2, 5; 3, 4, 15; id. N. D. 2, 22, 57; Sen. Ben. 4, 39, 1; Quint. 2, 20, 7; form Zenon,Cic. Tusc. 5, 9, 27 B. and K.; Sen. Ep. 33, 7.",
+            "An Eleatic philosopher of Elea, in Magna Groecia, Cic. Ac. 2, 42, 129; id. Tusc. 2, 22, 52; id. N. D. 3, 33, 82.",
+            "An Epicurean philosopher, the teacher of Cicero and Atticus, Cic. Fin. 1, 5, 16; id. N. D. 1, 21, 59; 1, 33, 93 sq.; id. Tusc. 3, 17, 38.",
+            "A Greek emperor in the fifth Christian century.\u2014Hence, Z\u0113n\u014dn\u012d\u0101nus, a, um, , of or pertaining to the emperor Zeno, Zenonian: lex,Just. Inst. 3, 2, 3."
+        ]
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Zenobia",
+        "main_notes": "\u0396\u03b7\u03bd\u03bf\u03b2\u03b9\u0341\u03b1",
+        "part_of_speech": "noun",
+        "senses": [
+            "A queen of Palmyrene, wife of Odenatus, conquered by Aurelian, Treb. Poll. XXX. Tyrann. 14, 23; 14, 29; Vop. Aurel. 22 sq.; Eutr. 9, 9.",
+            "Daughter of Mithridates, king of Armenia, Tac. A. 12, 44; 13, 6; 13, 37."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "Z\u0113n\u014fb\u012da"
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Zephyre",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "An island near Crete, Mel. 2, 7; Plin. 4, 12, 20, \u00a7 61."
+        ],
+        "title_genitive": "\u0113s",
+        "title_orthography": "Z\u0115phyr\u0113"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Zephyritis",
+        "main_notes": "\u0396\u03b5\u03c6\u03c5\u03c1\u03b9\u0342\u03c4\u03b9\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "The Zephyritide, an appellation of Arsino\u00eb, wife of Ptolemaeus Philadelphus, who was honored as a goddess, Cat. 66, 57 (cf. Plin. 34, 14, 42, \u00a7 148)."
+        ],
+        "title_genitive": "idis",
+        "title_orthography": "Z\u0115phyr\u012btis"
+    },
+    {
+        "entry_type": "greek",
+        "greek_word": "\u03b6\u03b5\u03c6\u03c5\u0341\u03c1\u03b9\u03bf\u03c2",
+        "key": "zephyrius",
+        "main_notes": "z\u0115phyr\u012dus, a, um",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Of or belonging to a zephyr or to the west wind: ova,i. e. wind-eggs, addle-eggs,Plin. 10, 60, 80, \u00a7 167."
+        ]
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zephyrus",
+        "main_notes": "\u0396\u03b5\u0341\u03c6\u03c5\u03c1\u03bf\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A gentle west wind, the western breeze, zephyr (pure Lat. Favonius); personified, son of Astroeus  and Aurora.",
+            "Lit., Plin. 18, 34, 77, \u00a7 337; Hor. C. 3, 1, 24; 4, 7, 9; id. Ep. 1, 7, 13; Verg. G. 1, 44; id. A. 4, 223; Ov. M. 1, 64; 1, 108; cf. Sen. Q. N. 5, 16, 5.",
+            "Poet., in gen., wind, Verg. A. 4, 562."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "Z\u0115phyrus"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "key": "zeros",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A precious stone, otherwise unknown, Plin. 37, 9, 53, \u00a7 138 (al. leros)."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "zeros"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zerynthius",
+        "main_notes": "Z\u0113rynth\u012dus, a, um, , = \u0396\u03b7\u03c1\u03c5\u0341\u03bd\u03b8\u03b9\u03bf\u03c2",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Of or belonging to the Thracian town of Zerynthus, Zerynthian: litora,Ov. Tr. 1, 10, 19: Apollo,Liv. 38, 41."
+        ]
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "zeta1",
+        "main_notes": "v. diaeta",
+        "part_of_speech": "noun",
+        "senses": [
+            "Init."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u0113ta"
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "N",
+        "key": "zeta2",
+        "main_notes": "\u03b6\u03b7\u0342\u03c4\u03b1",
+        "part_of_speech": "noun",
+        "senses": [
+            "The Greek letter zeta, Aus. Idyll. Lit. Monos. 12, 11."
+        ],
+        "title_genitive": "indecl.",
+        "title_orthography": "z\u0113ta"
+    },
+    {
+        "entry_type": "main",
+        "key": "zetarius",
+        "main_notes": "z\u0113t\u0101r\u012dus, a, um, = diaetarius, Paul. Sent. 3, 6, 58.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "alternative_genative": [
+            "i"
+        ],
+        "alternative_orthography": [
+            "Z\u0113tus"
+        ],
+        "declension": null,
+        "entry_type": "main",
+        "gender": "M.n",
+        "key": "Zetes",
+        "main_notes": "\u0396\u03b7\u0341\u03c4\u03b7\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A brother of Cal\u0103is and son of Boreas, one of the Argonauts, Ov. M. 6, 716; Prop. 1, 20, 26.\u2014Collat. form , , , Serv. ad Verg. A. 10, 350."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "Z\u0113tes"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zethus",
+        "main_notes": "\u0396\u03b7\u0342\u03b8\u03bf\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A son of Jupiter by Antiopa, and brother of Amphion, Cic. de Or. 2, 37, 155; id. Rep. 1, 18, 30; Auct. Her. 2, 27, 43; Hor. Ep. 1, 18, 42; Hyg. Fab. 76 and 155."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "Z\u0113thus"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zeugitana",
+        "main_notes": "Zeug\u012dt\u0101na r\u0115gio = \u03b7\u0314 \u0396\u03b5\u03c5\u03b3\u03b9\u03c4\u03b1\u03bd\u03b7\u0341",
+        "part_of_speech": null,
+        "senses": [
+            "A very fruitful district in Africa, now the northern part of Tunis, Plin. 5, 4, 3, \u00a7 23; Mart. Cap. 6, \u00a7 669.\u2014Called Zeugis, Isid. 14, 5, 8."
+        ]
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03b5\u03c5\u03b3\u03b9\u0341\u03c4\u03b7\u03c2",
+        "key": "zeugites",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of reed, Plin. 16, 36, 66, \u00a7 169."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "zeug\u012btes"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "N",
+        "key": "zeugma1",
+        "main_notes": "\u03b6\u03b5\u03c5\u0342\u03b3\u03bc\u03b1",
+        "part_of_speech": "noun",
+        "senses": [
+            "A grammatical figure, according to which two nouns or two infinitives are united to a verb which is applicable to only one of them, Ascon. ad Cic. Verr. 1, 18."
+        ],
+        "title_genitive": "atis",
+        "title_orthography": "zeugma"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "N",
+        "key": "Zeugma2",
+        "main_notes": "\u0396\u03b5\u03c5\u0342\u03b3\u03bc\u03b1",
+        "part_of_speech": "noun",
+        "senses": [
+            "A town in Syria, on the Euphrates, now Rumkaleh, Plin. 5, 12, 13, \u00a7 67; 5, 24, 21, \u00a7 86; 34, 15, 43, \u00a7 150; Tac. A. 12, 12; Luc. 8, 237; Stat. S. 3, 2, 137."
+        ],
+        "title_genitive": "atis",
+        "title_orthography": "Zeugma"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03b1\u03b9\u03bf\u0341\u03c2",
+        "key": "zeus",
+        "main_notes": "i",
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of fish (pure Lat. faber), Col. 8, 16, 9; Plin. 9, 18, 32, \u00a7 68."
+        ],
+        "title_genitive": null,
+        "title_orthography": "z\u0113us"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zeuxis",
+        "main_notes": "(acc. -im or -in), , = \u039e\u03b5\u03c5\u0342\u03be\u03b9\u03c2.",
+        "part_of_speech": "noun",
+        "senses": [
+            "A famous Greek painter of Heraclea, Plin. 35, 10, 36, \u00a7 65 sq.; Cic. Brut. 18, 70; id. de Or. 3, 7, 26; acc. Zeuxin, id. Inv. 2, 1, 1.",
+            "Zeuxis Blandenius (a native of Blandos, a city of Phrygia), a matricide, Cic. Q. Fr. 1, 2, 2, \u00a7 4 sq."
+        ],
+        "title_genitive": "is and \u012ddis",
+        "title_orthography": "Zeuxis"
+    },
+    {
+        "alternative_genative": [
+            "eris"
+        ],
+        "alternative_orthography": [
+            "zimp\u012db\u0115ri",
+            "zing\u012d-ber"
+        ],
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "N.n",
+        "greek_word": "\u03b6\u03b9\u03b3\u03b3\u03b9\u0341\u03b2\u03b5\u03c1\u03b9",
+        "key": "zingiberi",
+        "main_notes": "or",
+        "part_of_speech": "noun",
+        "senses": [
+            "Ginger: Amomum zingiber, Linn.; Plin. 12, 7, 14, \u00a7 27.\u2014Also , , , Cels. 5, 23 fin.; Pall. Oct. 20, 2; Apic. 2, 2."
+        ],
+        "title_genitive": "indecl.",
+        "title_orthography": "zing\u012db\u0115ri"
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "zinzala",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of gnat (rustic Lat.; cf. Span. zenzalo; Ital. zanzara),Cassiod. in Psa. 104, 31."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "zinz\u0103la"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "zirbus",
+        "main_notes": "omentum",
+        "part_of_speech": "noun",
+        "senses": [
+            "The caul, omentum, Apic. 8, 6 fin."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "zirbus"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03b6\u03b9\u03b6\u03b1\u0341\u03bd\u03b9\u03b1",
+        "key": "zizania",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Darnel, cockle, tares (eccl. Lat.), Prud. Apoth. 6, 8; Vulg. Matt. 13, 25; 13, 26 sq.; Ambros. in Luc. 8, 49."
+        ],
+        "title_genitive": "\u014drum",
+        "title_orthography": "z\u012bz\u0101n\u012da"
+    },
+    {
+        "alternative_orthography": [
+            "z\u012bz\u012dphum"
+        ],
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03b6\u03b9\u0341\u03b6\u03c5\u03c6\u03bf\u03bd",
+        "key": "zizyphum",
+        "main_notes": "or",
+        "part_of_speech": "noun",
+        "senses": [
+            "The jujube.Plin. 15, 14, 14, \u00a7 47; 17, 10, 14, \u00a7 74; 21, 9, 27, \u00a7 51."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "z\u012bzyphum"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03b9\u0341\u03b6\u03c5\u03c6\u03bf\u03c2",
+        "key": "zizyphus",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "The jujube-tree, Col. 9, 4, 3; Pall. 5, 4."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "z\u012bzyphus"
+    },
+    {
+        "entry_type": "main",
+        "key": "zmaragdachates",
+        "main_notes": "zmaragdachates, v. smarag-.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "entry_type": "main",
+        "key": "zmaragdus",
+        "main_notes": "zmaragdus, i, v. smaragdus",
+        "part_of_speech": null,
+        "senses": [
+            "Init."
+        ]
+    },
+    {
+        "entry_type": "main",
+        "key": "zmaris",
+        "main_notes": "zmaris, \u012ddis, v. smaris.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "entry_type": "main",
+        "key": "zmecticus",
+        "main_notes": "zmect\u012dcus, v. smecticus.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "entry_type": "main",
+        "key": "zmegma",
+        "main_notes": "zmegma, v. smegma.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "zmilampis",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A precious stone, otherwise unknown, Plin. 37, 10, 70, \u00a7 185."
+        ],
+        "title_genitive": "is",
+        "title_orthography": "zmilampis"
+    },
+    {
+        "entry_type": "main",
+        "key": "zmilax",
+        "main_notes": "zmilax, v. smilax.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "key": "zmintha",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "An aromatic plant, a kind of mint, Plin. 19, 10, 57, \u00a7 176."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "zmintha"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zmyrna",
+        "main_notes": "Zmyrna and Zmyrnaeus, a, um, v. Smyrn-.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "entry_type": "main",
+        "key": "zmyrus",
+        "main_notes": "zmyrus, i, v. smyrus.",
+        "part_of_speech": null,
+        "senses": []
+    },
+    {
+        "entry_type": "greek",
+        "greek_word": "\u03b6\u03c9\u03b4\u03b9\u03b1\u03ba\u03bf\u0341\u03c2",
+        "key": "zodiacus",
+        "main_notes": "z\u014dd\u012d\u0103cus, i, m.",
+        "part_of_speech": "adjective",
+        "senses": [
+            "The zodiac (pure Lat. orbis signifer), Cic. Arat. 317; Gell. 13, 9, 6.\u2014Hence, z\u014dd\u012d\u0103cus, a, um, , of the zodiac: zodiacum diastema,Sid. Ep. 8, 11: zodiacus tractus,Mart. Cap. 1, \u00a7 44: zodiaca hospitia,id. ib. 1, \u00a7 5."
+        ]
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Zoe",
+        "main_notes": "\u03b6\u03c9\u03b7\u0341 (life)",
+        "part_of_speech": "noun",
+        "senses": [
+            "One of the Aeons of Valentinus, Tert. adv. Valent. 12."
+        ],
+        "title_genitive": "\u0113s",
+        "title_orthography": "Z\u014d\u0113"
+    },
+    {
+        "declension": 2,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zoilus",
+        "main_notes": "\u0396\u03c9\u0341\u03b9\u03bb\u03bf\u03c2",
+        "part_of_speech": "noun",
+        "senses": [
+            "A severe critic in the time of Ptolemaeus Philadelphus, a censurer of Homer (hence called \u039f\u0314\u03bc\u03b7\u03c1\u03bf\u03bc\u03b1\u0341\u03c3\u03c4\u03b9\u03be, Homeromastix), Vitr. 7 praef.\u2014 Transf., of a censorious person, Ov. R. Am. 366; Mart. 11, 37, 1."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "Z\u014d\u012dlus"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "F",
+        "key": "zomoteganite",
+        "main_notes": "\u03b6\u03c9\u03bc\u03bf\u0341\u03c2-\u03c4\u03b7\u0341\u03b3\u03b1\u03bd\u03bf\u03bd",
+        "part_of_speech": "noun",
+        "senses": [
+            "A dish of fish stewed in their own liquor, Apic. 4, 2, \u00a7 147 dub."
+        ],
+        "title_genitive": "\u0113s",
+        "title_orthography": "z\u014dm\u014ft\u0113g\u0103n\u012bt\u0113"
+    },
+    {
+        "alternative_orthography": [
+            "s\u014dna"
+        ],
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03b6\u03c9\u0341\u03bd\u03b7",
+        "key": "zona",
+        "main_notes": "(, Plaut. Merc. 5, 2, 85 Ritschl)",
+        "part_of_speech": "noun",
+        "senses": [
+            "A belt, girdle, zone, worn about the loins by women (cf. cingulum).",
+            "Lit., Cat. 2, 13; Ov. F. 2, 320; id. H. 2, 116; id. M. 5, 470; 10, 379; id. R. Am. 602; id. Am. 1, 7, 48 al.",
+            "Transf.",
+            [
+                "A girdle worn by men for containing money, a money-belt (cf. crumena), C. Gracch. ap. Gell. 15, 12 fin.; Hor. Ep. 2, 2, 40.",
+                "The girdle or belt of Orion, a constellation, Ov. F. 6, 787.",
+                "A line running around the edge of a gem, a girdle, Plin. 37, 6, 24, \u00a7 90.",
+                "One of the imaginary circles which divided the earth into five climates, a zone, Verg. G. 1, 233; Ov. M. 1, 46; 2, 131; Plin. 2, 68, 68, \u00a7 172; Mel. 1, 1, 2; Macr. Somn. Scip. 1, 15, 13; 2, 5, 20; Mart. Cap. 6, \u00a7 602.",
+                "A kind of herpes or erysipelas, which spreads about the body like a girdle, and destroys life, the shingles; called also zoster, Scrib. Comp. 63."
+            ]
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u014dna"
+    },
+    {
+        "entry_type": "main",
+        "key": "zonalis",
+        "main_notes": "z\u014dn\u0101lis, e, zona, II. D.",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Of or belonging to a zone (of the earth): ambitus,Macr. Somn. Scip. 2, 5 med."
+        ]
+    },
+    {
+        "entry_type": "main",
+        "key": "zonarius",
+        "main_notes": "z\u014dn\u0101r\u012dus (s\u014dn\u0101r\u012dus), a, um,  zona",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Of or belonging to a belt or girdle.",
+            "Adj.: sector,a cutpurse,Plaut. Trin. 4, 2, 20.",
+            "Subst.: z\u014dn\u0101r\u012dus, ii, m., a maker of girdles, Cic. Fl. 7, 17; Lucil. ap. Non. p. 2, 379 (Sat. Fr. 30, 16)."
+        ]
+    },
+    {
+        "entry_type": "hapax",
+        "key": "zonatim",
+        "main_notes": "z\u014dn\u0101tim, zona",
+        "part_of_speech": "adverb",
+        "senses": [
+            "Round about, in a circle, Lucil. ap. Non. p. 189, 33."
+        ]
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Zone",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A promontory of Thrace, opposite to Thasos, Mel. 2, 2; Plin. 4, 11, 18, \u00a7 43."
+        ],
+        "title_genitive": "\u0113s",
+        "title_orthography": "Z\u014dn\u0113"
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "zonula",
+        "main_notes": "dim.zona",
+        "part_of_speech": "noun",
+        "senses": [
+            "A little girdle, Cat. 61, 53; Seren. ap. Non. p. 539, 19; Lampr. Alex. Sev. 52."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u014dn\u016dla"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03c9\u03bf\u03c6\u03bf\u0341\u03c1\u03bf\u03c2",
+        "key": "zoophorus",
+        "main_notes": ".",
+        "part_of_speech": "noun",
+        "senses": [
+            "The frieze of a column (between the epistylium and the coronis), Vitr. 3, 5, 10; 4, 1, 2."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "z\u014doph\u014frus"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03c9\u03bf\u0341\u03c6\u03b8\u03b1\u03bb\u03bc\u03bf\u03c2",
+        "key": "zoophthalmos",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Great houseleek, called also aizoum majus, Plin. 25, 13, 102, \u00a7 160."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "z\u014dophthalmos"
+    },
+    {
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03b6\u03c9\u0341\u03c0\u03b9\u03c3\u03c3\u03b1",
+        "key": "zopissa",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Pitch mixed with wax, which was scraped off from ships, Plin. 16, 12, 23, \u00a7 56; 24, 7, 26, \u00a7 41."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u014dpissa"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03b6\u03c9\u03c0\u03c5\u03c1\u03bf\u0341\u03bd",
+        "key": "zopyron",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A plant, called also clinopodion, Plin. 24, 15, 87, \u00a7 137."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "z\u014dpyron"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zopyrus",
+        "main_notes": "Z\u014dpyrus, i, m., = \u0396\u03c9\u0341\u03c0\u03c5\u03c1\u03bf\u03c2.",
+        "part_of_speech": "adverb",
+        "senses": [
+            "A celebrated physiognomist, Cic. Fat. 5, 10; id. Tusc. 4, 37, 80.",
+            "A Persian noble, who mutilated himself and thereby helped to conquer Babylon, Just. 1, 10, 15.",
+            "A rhetorician, Quint. 3, 6, 3.\u2014Hence, perh.",
+            [
+                "Z\u014dpyrion, Lucil. ap. Non. p. 210, 28.",
+                [
+                    "Z\u014dpyri\u0101tim, , in the manner of Zopyrus, Lucil. ap. Non. p. 455, 17."
+                ]
+            ]
+        ]
+    },
+    {
+        "declension": null,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "zoranisceos",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A precious stone, otherwise unknown, Plin. 37, 10, 70, \u00a7 185."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "zoranisceos"
+    },
+    {
+        "entry_type": "main",
+        "key": "Zoroastres",
+        "main_notes": "Z\u014dr\u014fastres, is, m.",
+        "part_of_speech": "adjective",
+        "senses": [
+            "Zoroaster, a lawgiver of the Medes, Just. 1, 1, 9; Plin. 30, 1, 2, \u00a7 3; App. Mag. p. 291.\u2014Hence, Z\u014dr\u014f-astr\u0113us, a, um, , of or belonging to Zoroaster, Zoroastrian: susurri,i. e. magical,Prud. Apoth. 494 (where Z\u014fr-, by solecism)."
+        ]
+    },
+    {
+        "declension": 3,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03c9\u03c3\u03c4\u03b7\u0341\u03c1",
+        "key": "zoster1",
+        "main_notes": "(a girdle).",
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of herpes, the shingles (cf. zona, II. E.), Plin. 26, 11, 74, \u00a7 121.",
+            "A kind of sca shrub (called also prason), Plin. 13, 25, 48, \u00a7 135."
+        ],
+        "title_genitive": "\u0113ris",
+        "title_orthography": "zoster"
+    },
+    {
+        "declension": 3,
+        "entry_type": "main",
+        "gender": "M",
+        "key": "Zoster2",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A promontory, town, and harbor of Attica; the promontory is now called C. Lombarda, Cic. Att. 5, 12 init."
+        ],
+        "title_genitive": "\u0113ris",
+        "title_orthography": "Zoster"
+    },
+    {
+        "declension": 1,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03b6\u03c9\u03b8\u03b7\u0341\u03ba\u03b7",
+        "key": "zotheca",
+        "main_notes": ".",
+        "part_of_speech": "noun",
+        "senses": [
+            "A little private chamber, closet, or cabinet, for reposing in by day (cf. conclave), Plin. Ep. 2, 17, 21; cf. zothecula.",
+            "A recess, niche, for religious purposes, Inscr. Orell. 1368; 2006; 3889."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u014dth\u0113ca"
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "zothecula",
+        "main_notes": "dim.zotheca, I.",
+        "part_of_speech": "noun",
+        "senses": [
+            "A little closet or cabinet, Plin. Ep. 5, 6, 38; Sid. Ep. 8, 16; 9, 11."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "z\u014dth\u0113c\u016dla"
+    },
+    {
+        "declension": 1,
+        "entry_type": "foreign",
+        "gender": "F",
+        "key": "zura",
+        "main_notes": "African",
+        "part_of_speech": "noun",
+        "senses": [
+            "The seed of the Christ's-thorn (paliurus), Plin. 24, 13, 71, \u00a7 115."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "zura"
+    },
+    {
+        "entry_type": "greek",
+        "key": "zygia1",
+        "main_notes": "zyg\u012da, ae, f., = \u03b6\u03c5\u03b3\u03b9\u0341\u03b1 (prop. an  from \u03b6\u03c5\u0341\u03b3\u03b9\u03bf\u03c2, belonging to or fit for yokes).",
+        "part_of_speech": "adjective",
+        "senses": [
+            "A tree, called also carpinus, horn-beam: Carpinus betulus, Linn.; Plin. 16, 15, 26, \u00a7 67.",
+            "Zygia tibia, a nuptial or marriage flute, App. M. 4, p. 157, 37."
+        ]
+    },
+    {
+        "declension": 1,
+        "entry_type": "main",
+        "gender": "F",
+        "key": "Zygia2",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A name of Juno, as the goddess of marriage, App. M. 6, p. 174, 38."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "Zygia"
+    },
+    {
+        "declension": 3,
+        "entry_type": "greek",
+        "gender": "F",
+        "greek_word": "\u03b6\u03c5\u03b3\u03b9\u0341\u03c2",
+        "key": "zygis",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "Wild thyme, App. Herb. 99."
+        ],
+        "title_genitive": "idis",
+        "title_orthography": "zygis"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03b6\u03c5\u03b3\u03bf\u0341\u03c3\u03c4\u03b1\u03c3\u03b9\u03c2",
+        "key": "zygostasium",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "The office of a weigh-master, Cod. Th. 15, 26, 1."
+        ],
+        "title_genitive": "ii",
+        "title_orthography": "zygost\u0103s\u012dum"
+    },
+    {
+        "declension": null,
+        "entry_type": "greek",
+        "gender": "M",
+        "greek_word": "\u03b6\u03c5\u03b3\u03bf\u03c3\u03c4\u03b1\u0341\u03c4\u03b7\u03c2",
+        "key": "zygostates",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A master of the weights, weigh-master, Cod. Th. 12, 7, 2; Cod. Just. 10, 71, 2."
+        ],
+        "title_genitive": "ae",
+        "title_orthography": "zygost\u0103tes"
+    },
+    {
+        "declension": 2,
+        "entry_type": "greek",
+        "gender": "N",
+        "greek_word": "\u03b6\u03c5\u0342\u03b8\u03bf\u03c2",
+        "key": "zythum",
+        "main_notes": null,
+        "part_of_speech": "noun",
+        "senses": [
+            "A kind of malt-liquor among the Egyptians, Plin. 22, 25, 82, \u00a7 164; Col. 10, 116; Dig. 33, 6, 9 praef."
+        ],
+        "title_genitive": "i",
+        "title_orthography": "zythum"
+    }
+]

@@ -1,6 +1,6 @@
 import React from "react";
 import Subsection from "./subsection";
-import data from "../data/ls_A.json";
+
 
 function Noun(props) {
 
