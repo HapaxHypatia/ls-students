@@ -7,8 +7,8 @@ function Verb(props) {
 
 	return (
 		<div>
-			Conjugation: {props.conj}
-			{props.principal_parts}
+			<p>Conjugation: {props.conj}</p>
+			Principal Parts: {props.parts.map((item, index) => <div>{item}</div>)}
 			{props.senses.map((sense, index) => <Subsection key={index} sense={sense}/>)}
 		</div>
 	);

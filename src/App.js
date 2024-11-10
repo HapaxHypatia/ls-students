@@ -1,5 +1,5 @@
 import React from "react";
-import './App.css';
+import './css/app.scss';
 import {Routes} from "react-router";
 import {Route} from "react-router";
 import {Link} from "react-router-dom";
@@ -7,12 +7,13 @@ import {Link} from "react-router-dom";
 
 import About from "./components/about";
 import Search from "./components/search";
-import logo from "./logo.png";
+import logo from "./images/logo.png";
 
 import NoMatch from "./components/noMatch";
 
 function App() {
-  return (
+    const sass = require('sass');
+    return (
     <div className="App">
       <nav>
           <ul>

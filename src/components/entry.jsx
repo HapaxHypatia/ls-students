@@ -55,7 +55,7 @@ function Entry(props) {
 			<div>
 				<div>{before} {after}</div>
 				{/*TODO make each of these a link that replaces the entry with a new one*/}
-				{/*TODO Style adjacent entries*/}
+				{/*TODO Style adjacent entries as sliding carousel of all keys*/}
 				<div>{selectedEntry.key}</div>
 				<div>Part of speech: {part}</div>
 				{

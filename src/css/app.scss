@@ -1,3 +1,9 @@
+$dark: #4A707A;
+$mid-dark: #7697A0;
+$mid: #94B0B7;
+$mid-light: #C2C8C5;
+$light: #DDDDDA;
+
 .App {
   text-align: center;
 }
@@ -13,24 +19,27 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: cadetblue;
+  background-color: $mid-dark;
+
 }
 
 li {
   float: left;
+
 }
 
 li a {
+  margin: 5px;
   display: block;
-  color: white;
+  color: #fff;
   text-align: center;
+  border-radius: 15%;
   padding: 14px 16px;
   text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
-  background-color: darkslategrey;
+  background-color: $dark;
 }
 
 .svgWrapper{
@@ -41,18 +50,24 @@ li a:hover {
 
 #searchBox {
     width: auto;
-    height: 50px;
+    height: 30px;
     font-size: 14px;
-    background-image: url(https://cdn2.hubspot.net/hubfs/4004166/bioticresearch_website_assets/images/search_icon.png);
+    background-image: url('../images/search_icon.png');
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 40px;
     padding-right: 40px;
+    margin-right: 40px;
+    border-radius: 5px;
     background-color: #fff;
-    border: 1px solid darkslategrey;
+    border: 1px solid $dark;
     box-shadow: none;
     -webkit-appearance: none;
 }
+#search-button{
+  height: 30px;
+}
+
 form {
     padding: 40px;
 }

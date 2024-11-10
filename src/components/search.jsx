@@ -3,7 +3,6 @@ import {useState} from "react";
 import Entry from "./entry";
 import {a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,x,y,z} from '../data'
 
-
 //TODO design page layout properly
 //TODO expand all abbreviations and replace any that are confusing
 //TODO format quotation examples differently, and make them collapsible
@@ -66,7 +65,7 @@ const Search = () => {
 			<div className="search">
 				<form onSubmit={handleSubmit}>
 					<input id='searchBox' value={searchTerm ?? ""} onChange={updateState} placeholder="Search the dictionary" />
-					<button>Search</button>
+					<button id={'search-button'}>Search</button>
 				</form>
 				{entry? <Entry term={entry} data={data} /> : <p id={"empty"}></p>}
 			</div>

@@ -114,7 +114,7 @@ def set_conjugations(datalist):
 if __name__ == "__main__":
 	data = []
 	alphabet = list('abcdefghijklmnopqrstuvxyz')
-	for filename in os.listdir("original_data"):
+	for filename in os.listdir("../original_data"):
 		with open("./original_data/" + filename, "r", encoding="utf-8") as file:
 			data.append(json.load(file))
 	dictionary = dict(zip(alphabet, data))
